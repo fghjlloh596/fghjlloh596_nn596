@@ -1,3 +1,5 @@
+#!/bin/bash
+cd /content
 import torch
 from IPython.display import Image, clear_output
 clear_output()
