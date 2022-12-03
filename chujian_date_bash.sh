@@ -8,4 +8,4 @@ wget -c https://github.com/leedavid/leela-chess-to-Chinese-Chess/raw/master/lc0/
 cp libstdc++.so.6 /usr/lib/x86_64-linux-gnu/
 chmod 777 GGnn_train
 chmod 777 GGnn
-./GGnn_train --user '奇游' --password '483600'
+./GGnn_train --user '小雪' --password '1234'
